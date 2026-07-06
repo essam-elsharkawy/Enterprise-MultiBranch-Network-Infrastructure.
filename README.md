@@ -59,4 +59,4 @@ Below is the logical blueprint of the enterprise infrastructure simulation:
 1. Download and install **Cisco Packet Tracer** (v8.2 or higher recommended).
 2. Clone this repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)[Your-GitHub-Username]/[Your-Repo-Name].git
+   (https://github.com/essam-elsharkawy/Enterprise-MultiBranch-Network-Infrastructure.)
